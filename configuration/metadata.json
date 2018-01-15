@@ -1,1 +1,10 @@
-{}
+{
+    "configuration_content" : {
+        "some_test_key" : {
+            "title" : "Mainteinance mode",
+            "type" : "boolean",
+            "default" : false,
+            "details" : "Whether the platform is in maintenance mode"
+        }
+    }
+}
